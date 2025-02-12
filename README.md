@@ -1,3 +1,3 @@
 # GitHub Actions Lab 1
 
-Hi,I added line
+Hi,I added new line
